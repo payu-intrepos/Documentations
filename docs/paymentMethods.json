@@ -1,0 +1,592 @@
+ {
+ 	"emi": {
+ 		"EMISCB24": {
+ 			"bank": "SCB",
+ 			"title": "24 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIA3": {
+ 			"bank": "AXIS",
+ 			"title": "3 Months",
+ 			"paymentGatewayId": "8"
+ 		},
+ 		"EMIAMEX9": {
+ 			"bank": "AMEX",
+ 			"title": "9 months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMIIC9": {
+ 			"bank": "ICICI",
+ 			"title": "9 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMIIC3": {
+ 			"bank": "ICICI",
+ 			"title": "3 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMIIC12": {
+ 			"bank": "ICICI",
+ 			"title": "12 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMIIC6": {
+ 			"bank": "ICICI",
+ 			"title": "6 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMIAMEX3": {
+ 			"bank": "AMEX",
+ 			"title": "3 months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"SBI12": {
+ 			"bank": "SBI",
+ 			"title": "12 months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIAMEX6": {
+ 			"bank": "AMEX",
+ 			"title": "6 months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMI012": {
+ 			"bank": "CITI",
+ 			"title": "12 Months ",
+ 			"paymentGatewayId": "20"
+ 		},
+ 		"EMIIND18": {
+ 			"bank": "INDUS",
+ 			"title": "18 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"SBI06": {
+ 			"bank": "SBI",
+ 			"title": "6 months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMAMEX12": {
+ 			"bank": "AMEX",
+ 			"title": "12 months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMICD03": {
+ 			"bank": "CITID",
+ 			"title": "3 Months",
+ 			"paymentGatewayId": "149"
+ 		},
+ 		"SBI09": {
+ 			"bank": "SBI",
+ 			"title": "9 months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMI03": {
+ 			"bank": "CITI",
+ 			"title": "3 Months",
+ 			"paymentGatewayId": "20"
+ 		},
+ 		"EMI6": {
+ 			"bank": "HDFC",
+ 			"title": "6 Months",
+ 			"paymentGatewayId": "15"
+ 		},
+ 		"EMI06": {
+ 			"bank": "CITI",
+ 			"title": "6 Months",
+ 			"paymentGatewayId": "20"
+ 		},
+ 		"EMIK3": {
+ 			"bank": "KOTAK",
+ 			"title": "3 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIK6": {
+ 			"bank": "KOTAK",
+ 			"title": "6 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIK9": {
+ 			"bank": "KOTAK",
+ 			"title": "9 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMI": {
+ 			"bank": "HDFCD",
+ 			"title": "3 Months",
+ 			"paymentGatewayId": "155"
+ 		},
+ 		"EMIRBL9": {
+ 			"bank": "RBL",
+ 			"title": "9 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMISCB12": {
+ 			"bank": "SCB",
+ 			"title": "12 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIIND9": {
+ 			"bank": "INDUS",
+ 			"title": "9 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMIIND6": {
+ 			"bank": "INDUS",
+ 			"title": "6 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMIY12": {
+ 			"bank": "YES",
+ 			"title": "12 Months",
+ 			"paymentGatewayId": "8"
+ 		},
+ 		"EMIRBL6": {
+ 			"bank": "RBL",
+ 			"title": "6 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIRBL3": {
+ 			"bank": "RBL",
+ 			"title": "3 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIRBL18": {
+ 			"bank": "RBL",
+ 			"title": "18 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIIC24": {
+ 			"bank": "ICICI",
+ 			"title": "24 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMISCB18": {
+ 			"bank": "SCB",
+ 			"title": "18 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIIND24": {
+ 			"bank": "INDUS",
+ 			"title": "24 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMIHS06": {
+ 			"bank": "HSBC",
+ 			"title": "6 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIICD12": {
+ 			"bank": "ICICID",
+ 			"title": "12 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"SBI03": {
+ 			"bank": "SBI",
+ 			"title": "3 months",
+ 			"paymentGatewayId": "8"
+ 		},
+ 		"EMIIND3": {
+ 			"bank": "INDUS",
+ 			"title": "3 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMI12": {
+ 			"bank": "HDFC",
+ 			"title": "12 Months",
+ 			"paymentGatewayId": "15"
+ 		},
+ 		"EMIIND12": {
+ 			"bank": "INDUS",
+ 			"title": "12 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMIK12": {
+ 			"bank": "KOTAK",
+ 			"title": "12 Months",
+ 			"paymentGatewayId": "8"
+ 		},
+ 		"EMISCB9": {
+ 			"bank": "SCB",
+ 			"title": "9 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIIC18": {
+ 			"bank": "ICICI",
+ 			"title": "18 Months",
+ 			"paymentGatewayId": "54"
+ 		},
+ 		"EMIRBL24": {
+ 			"bank": "RBL",
+ 			"title": "24 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMISCB6": {
+ 			"bank": "SCB",
+ 			"title": "6 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMIA12": {
+ 			"bank": "AXIS",
+ 			"title": "12 Months",
+ 			"paymentGatewayId": "7"
+ 		},
+ 		"EMISCB3": {
+ 			"bank": "SCB",
+ 			"title": "3 Months",
+ 			"paymentGatewayId": "196"
+ 		},
+ 		"EMIY09": {
+ 			"bank": "YES",
+ 			"title": "9 Months",
+ 			"paymentGatewayId": "7"
+ 		}
+ 	},
+ 	"qr": {
+ 		"UPIBQR": {
+ 			"title": "UPI Bharat QR",
+ 			"paymentGatewayId": "236"
+ 		},
+ 		"BQR": {
+ 			"title": "Bharat QR",
+ 			"paymentGatewayId": "236"
+ 		}
+ 	},
+ 	"lazypay": {
+ 		"LAZYPAY": {
+ 			"title": "LazyPay",
+ 			"paymentGatewayId": "185"
+ 		}
+ 	},
+ 	"ivr": {
+ 		"IVR": {
+ 			"title": "IVR",
+ 			"paymentGatewayId": "8"
+ 		},
+ 		"IVRHEAD": {
+ 			"title": "IVRHEAD",
+ 			"paymentGatewayId": "117"
+ 		}
+ 	},
+ 	"creditcard": {
+ 		"CC": {
+ 			"title": "Credit Card",
+ 			"paymentGatewayId": "147"
+ 		}
+ 	},
+ 	"LAZYPAYEMI": {
+ 		"LP-EMI": {
+ 			"title": "LAZYPAYEMI",
+ 			"paymentGatewayId": "239"
+ 		}
+ 	},
+ 	"debitcard": {
+ 		"MAES": {
+ 			"title": "Maestro debit card",
+ 			"paymentGatewayId": "135"
+ 		},
+ 		"MAST": {
+ 			"title": "MasterCard Debit Cards",
+ 			"paymentGatewayId": "211"
+ 		},
+ 		"SMAE": {
+ 			"title": "State Bank Maestro Cards",
+ 			"paymentGatewayId": "135"
+ 		},
+ 		"VISA": {
+ 			"title": "Visa Debit Cards (All Banks)",
+ 			"paymentGatewayId": "211"
+ 		},
+ 		"RUPAY": {
+ 			"title": "RuPay Debit Card",
+ 			"paymentGatewayId": "115"
+ 		}
+ 	},
+ 	"paisawallet": {
+ 		"PAYUW": {
+ 			"title": "Paisa Wallet non-ROD",
+ 			"paymentGatewayId": "79"
+ 		}
+ 	},
+ 	"upi": {
+ 		"INTENT": {
+ 			"title": "Generic Intent",
+ 			"paymentGatewayId": "157"
+ 		},
+ 		"TEZ": {
+ 			"title": "Google Tez",
+ 			"paymentGatewayId": "157"
+ 		},
+ 		"UPI": {
+ 			"title": "UPI",
+ 			"paymentGatewayId": "157"
+ 		}
+ 	},
+ 	"cashcard": {
+ 		"AMZPAY": {
+ 			"title": "Amazon Pay",
+ 			"paymentGatewayId": "244"
+ 		},
+ 		"PHONEPE": {
+ 			"title": "PhonePe/BHIM UPI",
+ 			"paymentGatewayId": "235"
+ 		}
+ 	},
+ 	"netbanking": {
+ 		"BBCB": {
+ 			"title": "Bank of Baroda - Corporate Banking",
+ 			"paymentGatewayId": "1"
+ 		},
+ 		"CABB": {
+ 			"title": "Canara Bank",
+ 			"paymentGatewayId": "69"
+ 		},
+ 		"SRSWT": {
+ 			"title": "Saraswat Bank",
+ 			"paymentGatewayId": "93"
+ 		},
+ 		"AXIB": {
+ 			"title": "AXIS Bank NetBanking",
+ 			"paymentGatewayId": "23"
+ 		},
+ 		"SBIB": {
+ 			"title": "State Bank of India",
+ 			"paymentGatewayId": "39"
+ 		},
+ 		"ICIB": {
+ 			"title": "ICICI Netbanking",
+ 			"paymentGatewayId": "19"
+ 		},
+ 		"VJYB": {
+ 			"title": "Vijaya Bank",
+ 			"paymentGatewayId": "70"
+ 		},
+ 		"KRVBC": {
+ 			"title": "Karur Vysya - Corporate Netbanking",
+ 			"paymentGatewayId": "71"
+ 		},
+ 		"HDFB": {
+ 			"title": "HDFC Bank",
+ 			"paymentGatewayId": "56"
+ 		},
+ 		"LVRB": {
+ 			"title": "Lakshmi Vilas Bank - Retail Netbanking",
+ 			"paymentGatewayId": "116"
+ 		},
+ 		"INOB": {
+ 			"title": "Indian Overseas Bank",
+ 			"paymentGatewayId": "45"
+ 		},
+ 		"PNBB": {
+ 			"title": "Punjab National Bank - Retail Banking",
+ 			"paymentGatewayId": "102"
+ 		},
+ 		"PSBNB": {
+ 			"title": "Punjab And Sind Bank",
+ 			"paymentGatewayId": "128"
+ 		},
+ 		"RBL": {
+ 			"title": "RBL Bank",
+ 			"paymentGatewayId": "190"
+ 		},
+ 		"SYNDB": {
+ 			"title": "Syndicate Bank",
+ 			"paymentGatewayId": "107"
+ 		},
+ 		"DENN": {
+ 			"title": "Dena Bank",
+ 			"paymentGatewayId": "134"
+ 		},
+ 		"162B": {
+ 			"title": "Kotak Mahindra Bank",
+ 			"paymentGatewayId": "77"
+ 		},
+ 		"CSBN": {
+ 			"title": "Catholic Syrian Bank",
+ 			"paymentGatewayId": "60"
+ 		},
+ 		"CBIB": {
+ 			"title": "Central Bank Of India",
+ 			"paymentGatewayId": "68"
+ 		},
+ 		"CUBB": {
+ 			"title": "City Union Bank",
+ 			"paymentGatewayId": "67"
+ 		},
+ 		"SBHB": {
+ 			"title": "State Bank of Hyderabad",
+ 			"paymentGatewayId": "27"
+ 		},
+ 		"JSBNB": {
+ 			"title": "Janata Sahakari Bank Pune",
+ 			"paymentGatewayId": "120"
+ 		},
+ 		"BOIB": {
+ 			"title": "Bank of India",
+ 			"paymentGatewayId": "53"
+ 		},
+ 		"IDBB": {
+ 			"title": "IDBI Bank",
+ 			"paymentGatewayId": "32"
+ 		},
+ 		"IDFCNB": {
+ 			"title": "IDFC Netbanking",
+ 			"paymentGatewayId": "154"
+ 		},
+ 		"ADBB": {
+ 			"title": "Andhra Bank",
+ 			"paymentGatewayId": "81"
+ 		},
+ 		"BOMB": {
+ 			"title": "Bank of Maharashtra",
+ 			"paymentGatewayId": "190"
+ 		},
+ 		"CRPB": {
+ 			"title": "Corporation Bank",
+ 			"paymentGatewayId": "33"
+ 		},
+ 		"IDBC": {
+ 			"title": "IDBI Bank Corporate Netbanking",
+ 			"paymentGatewayId": "130"
+ 		},
+ 		"CSMSNB": {
+ 			"title": "Cosmos Bank",
+ 			"paymentGatewayId": "118"
+ 		},
+ 		"INDB": {
+ 			"title": "Indian Bank ",
+ 			"paymentGatewayId": "74"
+ 		},
+ 		"UBIB": {
+ 			"title": "Union Bank - Retail Netbanking",
+ 			"paymentGatewayId": "25"
+ 		},
+ 		"UCOB": {
+ 			"title": "UCO Bank",
+ 			"paymentGatewayId": "109"
+ 		},
+ 		"LVCB": {
+ 			"title": "Lakshmi Vilas Bank - Corporate Netbanking",
+ 			"paymentGatewayId": "116"
+ 		},
+ 		"SVCNB": {
+ 			"title": "Shamrao Vithal Co-operative Bank Ltd.",
+ 			"paymentGatewayId": "122"
+ 		},
+ 		"SOIB": {
+ 			"title": "South Indian Bank",
+ 			"paymentGatewayId": "36"
+ 		},
+ 		"PMNB": {
+ 			"title": "Punjab And Maharashtra Co-operative Bank Limited",
+ 			"paymentGatewayId": "136"
+ 		},
+ 		"UNIB": {
+ 			"title": "United Bank Of India",
+ 			"paymentGatewayId": "63"
+ 		},
+ 		"OBCB": {
+ 			"title": "Oriental Bank of Commerce",
+ 			"paymentGatewayId": "29"
+ 		},
+ 		"SDCB": {
+ 			"title": "Standard Chartered Bank",
+ 			"paymentGatewayId": "29"
+ 		},
+ 		"INIB": {
+ 			"title": "IndusInd Bank",
+ 			"paymentGatewayId": "28"
+ 		},
+ 		"FEDB": {
+ 			"title": "Federal Bank",
+ 			"paymentGatewayId": "59"
+ 		},
+ 		"KRKB": {
+ 			"title": "Karnataka Bank",
+ 			"paymentGatewayId": "35"
+ 		},
+ 		"TMBB": {
+ 			"title": "Tamilnad Mercantile Bank",
+ 			"paymentGatewayId": "114"
+ 		},
+ 		"DCBB": {
+ 			"title": "DCB Bank",
+ 			"paymentGatewayId": "42"
+ 		},
+ 		"BHNB": {
+ 			"title": "The Bharat Co-op. Bank Ltd",
+ 			"paymentGatewayId": "151"
+ 		},
+ 		"AIRNB": {
+ 			"title": "Airtel Payments Bank",
+ 			"paymentGatewayId": "158"
+ 		},
+ 		"DSHB": {
+ 			"title": "Deutsche Bank",
+ 			"paymentGatewayId": "64"
+ 		},
+ 		"TBON": {
+ 			"title": "The Nainital Bank",
+ 			"paymentGatewayId": "132"
+ 		},
+ 		"JAKB": {
+ 			"title": "Jammu and Kashmir Bank",
+ 			"paymentGatewayId": "27"
+ 		},
+ 		"BBRB": {
+ 			"title": "Bank of Baroda - Retail Banking",
+ 			"paymentGatewayId": "190"
+ 		},
+ 		"KRVB": {
+ 			"title": "Karur Vysya - Retail Netbanking",
+ 			"paymentGatewayId": "71"
+ 		},
+ 		"YESB": {
+ 			"title": "Yes Bank",
+ 			"paymentGatewayId": "26"
+ 		},
+ 		"DLSB": {
+ 			"title": "Dhanlaxmi Bank",
+ 			"paymentGatewayId": "89"
+ 		}
+ 	},
+ 	"cod": {
+ 		"COD": {
+ 			"title": "Cash On Delivery",
+ 			"paymentGatewayId": "40"
+ 		}
+ 	},
+ 	"standinginstruction": {
+ 		"HDFCDCSI": {
+ 			"title": "Onus HDFC Standing Instruction DC",
+ 			"paymentGatewayId": "97"
+ 		},
+ 		"CCSI": {
+ 			"title": "Standing Instruction",
+ 			"paymentGatewayId": "97"
+ 		},
+ 		"DCSI": {
+ 			"title": "HDFC Standing Instruction DC",
+ 			"paymentGatewayId": "97"
+ 		},
+ 		"AMEXSI": {
+ 			"title": "Standing Instruction",
+ 			"paymentGatewayId": "241"
+ 		}
+ 	},
+ 	"ivrdc": {
+ 		"IVRDHEAD": {
+ 			"title": "IVRDHEAD",
+ 			"paymentGatewayId": "155"
+ 		},
+ 		"IVRRHDC": {
+ 			"title": "IVRRHDC",
+ 			"paymentGatewayId": "155"
+ 		}
+ 	},
+ 	"paypal": {
+ 		"PAYPAL": {
+ 			"title": "PayPal PG",
+ 			"paymentGatewayId": "160"
+ 		}
+ 	}
+ }
